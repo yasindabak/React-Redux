@@ -1,2 +1,2 @@
 # React-Redux
- Çalışma(BTK)
+ Çalışma(BTK) Sayaç
